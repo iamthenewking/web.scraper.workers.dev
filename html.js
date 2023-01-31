@@ -285,7 +285,7 @@ export default `<!doctype html>
     <div class="Surface">
       <div class="Panel">
         <div class="Panel--top">
-          <h1><a href="https://web.mrgabonijeff.workers.dev/" class="Link Link-without-underline"><span class="WebScraperLogo"><span>web.scraper</span><span class="WebScraperLogo--muted">.workers.dev</span></span></a></h1>
+          <h1><a href="https://web.mrgabonijeff.workers.dev/" class="Link Link-without-underline"><span class="WebScraperLogo"><span>gaboni</span><span class="WebScraperLogo--muted">.workers.dev</span></span></a></h1>
           <button data-js-dialog-open class="Button Button-is-help Button-is-bordered" type="button" aria-label="Help">?</button>
         </div>
 
@@ -362,7 +362,7 @@ export default `<!doctype html>
         <div class="Dialog--content">
           <p>Web Scraper makes it effortless to scrape websites. Just provide a URL and CSS selector and it will return JSON containing the text contents of the matching elements.</p>
 
-          <p>Built by <a class="Link" href="https://adamschwartz.co" target="_blank" rel="noopener">Adam Schwartz</a> using <a class="Link" href="https://workers.cloudflare.com" target="_blank" rel="noopener">Cloudflare Workers</a>, open-source and available on <a class="Link" href="https://github.com/adamschwartz/web.scraper.workers.dev" target="_blank" rel="noopener">GitHub</a>.</p>
+          
         </div>
 
         <div class="Dialog--actions">
